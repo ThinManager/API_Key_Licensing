@@ -1,2 +1,4 @@
 # API_Key_Licensing
-Generate a Long-Term Use ThinManager API Key and also get TMA and FTA Licensing Info with this simple PowerShell script. Get the project on GitHub: 
+Generate a long-term-use ThinManager API Key and also get TMA and FTA licensing info with this simple PowerShell script.
+
+See a video of a walkthrough here: 
